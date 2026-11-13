@@ -1,0 +1,19 @@
+EasyDotnet.IDE.Tests/TestRunner/VsTestConcurrencyGateTests.cs
+  s_75d04636593b8c::t_c02f7ca3cd4834 1-72
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "748c7cadb5f896946175de6472b0a7ee5c2380a8",
+  "prompts": {},
+  "sessions": {
+    "s_75d04636593b8c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f7170975-31b1-4fd1-b5b0-7b32267184db",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "Hugibeer <6256981+Hugibeer@users.noreply.github.com>"
+    }
+  }
+}
