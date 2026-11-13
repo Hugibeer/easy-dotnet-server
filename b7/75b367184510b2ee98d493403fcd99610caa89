@@ -1,0 +1,25 @@
+EasyDotnet.IDE/DiModules.cs
+  s_ce42e181f7e2b7::t_41e074af3f5974 125
+EasyDotnet.IDE/TestRunner/Adapters/VsTestAdapter.cs
+  s_ce42e181f7e2b7::t_723912360f50b0 22-30,39
+  s_ce42e181f7e2b7::t_bd3d8c75035101 137-138
+  s_ce42e181f7e2b7::t_7e5e2fac97c8c6 62-63
+EasyDotnet.IDE/TestRunner/Adapters/VsTestConcurrencyGate.cs
+  s_ce42e181f7e2b7::t_73a85ce4b59604 1-36
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "b775b367184510b2ee98d493403fcd99610caa89",
+  "prompts": {},
+  "sessions": {
+    "s_ce42e181f7e2b7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "03f60acb-628d-499c-81dc-726ec3aa0888",
+        "model": "unknown"
+      },
+      "human_author": "Hugibeer <6256981+Hugibeer@users.noreply.github.com>"
+    }
+  }
+}
